@@ -18,3 +18,4 @@ Tweak margin and padding
 Rewrite function Y
 Refactor core logic
 Update dependencies
+Fix typo in README
