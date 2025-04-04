@@ -22,3 +22,4 @@ Fix typo in README
 Tweak margin and padding
 Update configuration
 Add new utility script
+Fix bug in feature X
