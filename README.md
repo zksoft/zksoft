@@ -25,3 +25,4 @@ Add new utility script
 Fix bug in feature X
 Add new utility script
 Remove unused imports
+Improve error handling
