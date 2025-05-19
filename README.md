@@ -19,3 +19,4 @@ Rewrite function Y
 Refactor core logic
 Update dependencies
 Fix typo in README
+Tweak margin and padding
